@@ -1,0 +1,1 @@
+![start up image of the app]{device-2020-02-28-090034.png}
